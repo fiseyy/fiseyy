@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fiseyy
-- 👀 I’m interested in C++ developing and Qt developing
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C++ developing and Qt developing, C# developing
+- 🌱 I’m currently learning -
 <!--- - 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me: discord @fiseyy
 - 😄 Pronouns: he
