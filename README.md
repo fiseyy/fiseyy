@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fiseyy
+- 👋 Hi, I’m @fiseyy (Daniil)
 - 👀 I’m interested in C++ developing and Qt developing, C# developing
 - 🌱 I’m currently learning -
 <!--- - 💞️ I’m looking to collaborate on ...-->
